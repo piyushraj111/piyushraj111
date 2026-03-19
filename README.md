@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm PIYUSH RAJ
-**🚀 A passionate || Cybersecurity  || Full-Stack Developer 🛡️**
+**🚀 A passionate ||Frontend Developer 🛡️**
 I am a third-year B.Tech student at Lovely Professional University with a good foundation in Full-Stack Web Development. My journey started with building scalable applications, which gave me a deep understanding of how modern software is structured.
 
 Currently, I am pivoting my focus toward Cybersecurity. I believe that truly great software isn't just functional and elegant—it must be secure by design. By leveraging my background as a developer, I aim to bridge the gap between writing clean code and defending robust digital infrastructures.
