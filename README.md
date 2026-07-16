@@ -2,7 +2,7 @@ Hi 👋, I'm PIYUSH RAJ
 
 **🚀 Security-Minded Software Engineer & Systems Analyst 🛡️**
 
-I am a Computer Science & Engineering student at Lovely Professional University bridging the gap between Full-Stack Web Development and Practical Cybersecurity. I combine robust coding practices (Frontend/Backend automation) with defensive security strategies—including network mapping, vulnerability assessment, and SOC workflows. My core objective is to design, build, and audit applications that are functional, scalable, and inherently secure by design.
+I am a 4th year Computer Science & Engineering student at Lovely Professional University bridging the gap between Full-Stack Web Development and Practical Cybersecurity. I combine robust coding practices (Frontend/Backend automation) with defensive security strategies—including network mapping, vulnerability assessment, and SOC workflows. My core objective is to design, build, and audit applications that are functional, scalable, and inherently secure by design.
 
 Currently, I am focusing my trajectory on mastering both modern software development frameworks and robust system defense. By leveraging my background as a developer, I aim to build secure architectures while efficiently analyzing and defending digital infrastructures.
 
