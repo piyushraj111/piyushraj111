@@ -1,27 +1,23 @@
-# 💫 Hi 👋, I'm PIYUSH RAJ
-**🚀 A passionate ||Frontend Developer 🛡️ **
-I am a third-year B.Tech student at Lovely Professional University with a good foundation in Full-Stack Web Development. My journey started with building scalable applications, which gave me a deep understanding of how modern software is structured.
+Hi 👋, I'm PIYUSH RAJ
 
-Currently, I am pivoting my focus toward Cybersecurity. I believe that truly great software isn't just functional and elegant—it must be secure by design. By leveraging my background as a developer, I aim to bridge the gap between writing clean code and defending robust digital infrastructures.
+**🚀 Security-Minded Software Engineer & Systems Analyst 🛡️**
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+I am a Computer Science & Engineering student at Lovely Professional University bridging the gap between Full-Stack Web Development and Practical Cybersecurity. I combine robust coding practices (Frontend/Backend automation) with defensive security strategies—including network mapping, vulnerability assessment, and SOC workflows. My core objective is to design, build, and audit applications that are functional, scalable, and inherently secure by design.
 
-🛠️ What I’m Doing Now
-Transitioning to Security: Moving beyond the MERN stack to understand system vulnerabilities and network defense.
+Currently, I am focusing my trajectory on mastering both modern software development frameworks and robust system defense. By leveraging my background as a developer, I aim to build secure architectures while efficiently analyzing and defending digital infrastructures.
 
-Building My Lab: Currently setting up a dedicated environment with VMware, Kali Linux, and Windows Server to practice hands-on threat detection.
-
-Placement Prep: Sharpening my problem-solving skills with Data Structures & Algorithms in C++.
+📌 What I'm Doing Now
+* 🏆 TryHackMe: Achieved a Global Top 9% Rank | [View My TryHackMe Profile](https://tryhackme.com/p/piyushraj111)
+* Building My Lab: Utilizing VMware, Kali Linux, and Windows Server environments to practice hands-on threat detection and packet analysis.
+* Placement Prep: Sharpening my core problem-solving capabilities with Advanced Data Structures & Algorithms in C++.
 
 💻 Technical Toolkit
-Languages: C++,C, JavaScript, Python,Html,.
-
-Security Tools (In Progress): Learning to navigate Kali Linux, Nmap,nessus,cisco packet tracer and  networking protocols.
-
-Infrastructure: VMware, Windows Server, Linux.
+* Languages & Scripting: C++, C, JavaScript, Python, Bash, HTML, CSS
+* Security Tools & Frameworks: Kali Linux, Nmap, Nessus, Wireshark, Cisco Packet Tracer, and Network Architecture Protocols
+* Infrastructure Platforms: VMware Workstation, Windows Server, Linux CLI, AWS Cloud fundamentals
 
 🎯 My Goal
-I am dedicated to becoming a Security-Minded Developer. My objective is to bridge the gap between building scalable web applications and implementing robust defense mechanisms to protect them.
+I am dedicated to operating as a Security-Minded Developer and Analyst. My objective is to build scalable applications while implementing robust defensive mechanisms to secure modern enterprise infrastructure.
 
 
 ## 🌐 Socials:
